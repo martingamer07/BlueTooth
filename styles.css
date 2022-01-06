@@ -58,3 +58,9 @@ table {
   margin-right: 20px;
   background-color: rgba(227, 225, 233, 0.3);
 }
+
+.fkover{
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+
+}
